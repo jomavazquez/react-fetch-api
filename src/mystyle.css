@@ -1,0 +1,54 @@
+* {
+    font-family: 'Calibri', monospace, serif;
+}
+body {
+    background-color: fff;
+    color: #333;
+}
+
+input, select {
+    font-family: 'Calibri', monospace, serif;
+    font-size: 0.95rem;
+    margin-right: 5px;
+    padding: 5px;
+    border: solid 1px #ccc;
+    border-radius: 3px;
+}
+
+hr {
+    border: solid 1px #ccc;
+    margin: 25px 0;
+}
+
+.card-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: solid 1px #888;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #efefef;
+    margin: 0 10px 10px 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.card img {
+    max-height: 175px;
+    display: block;
+    margin: 0 auto;
+	min-height: 175px;
+}
+
+.card p {
+    background-color: #efefef;
+    margin: 0;
+    padding: 10px 5px;
+    font-size: 15px;
+    text-transform: capitalize;
+    min-height: 20px;
+    line-height: 20px;
+}
