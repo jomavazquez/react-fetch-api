@@ -2,7 +2,7 @@
 
 Using Fetch, useState, custom hooks. Just type a word!
 
-https://jomavazquez.github.io/react-fetch-api/
+https://react-fetch-api.vercel.app/
 
 # Getting Started with Create React App
 
